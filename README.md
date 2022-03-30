@@ -55,10 +55,10 @@ Code Quality               This will be evaluated manually
 We want a nation named _Inuit Hunters_.
 
 ### Details
-1. The house is an igloo and looks line below:
-![image](https://user-images.githubusercontent.com/1958088/87903150-2644fe80-ca7d-11ea-9841-16695cfcb8d5.png)
-1. Relies on natural water sources so it is not possible to place water sources.
-1. Also cannot plant trees.
-1. The terrain should be pure white.
-1. The shapes should resemble as shown above, but do not have to be exactly the same.
+1. The house is an igloo and looks line below://
+2. ![image](https://user-images.githubusercontent.com/1958088/87903150-2644fe80-ca7d-11ea-9841-16695cfcb8d5.png)
+3. Relies on natural water sources so it is not possible to place water sources.
+4. Also cannot plant trees.
+5. The terrain should be pure white.
+6. The shapes should resemble as shown above, but do not have to be exactly the same.
 
