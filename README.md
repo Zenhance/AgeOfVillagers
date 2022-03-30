@@ -61,3 +61,17 @@ We want a nation named _Inuit Hunters_.
 4. The terrain should be pure white.
 5. The shapes should resemble as shown above, but do not have to be exactly the same.
 
+
+We want a nation named _Egyptian Kings_.
+
+### Details
+1. The house, tree and water source looks as follows:
+![image](https://user-images.githubusercontent.com/1958088/87902813-622b9400-ca7c-11ea-8c3e-93268dd4c3f7.png)
+
+1. They did not live in the pyramids, but it is a well-known symbol of ancient Egypt!
+1. The water source is a well and it should be 12px by 12px.
+1. The terrain should be a plain yellow colour.
+1. The shapes should resemble as shown above, but do not have to be exactly the same.
+
+
+
