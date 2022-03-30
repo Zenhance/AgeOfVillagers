@@ -24,23 +24,23 @@ We want the size of the items to be as below:
 
 We want the shape of the items to vary based on the nation. Please check individual nation details for the shapes of the items.
 
-***As a village editor, I want to open a village that was previously saved.***
+***As a village editor, we want to open a village that was previously saved.***
 
 #### Notes
 1. The village can be edited after it is opened.
-2. When a village is being opened, I would like to choose a nation for which the village will be drawn.
+2. When a village is being opened, we would like to choose a nation for which the village will be drawn.
 
-***As a village editor, I want to save the current state of a village so that I can open it later.***
+***As a village editor, we want to save the current state of a village so that we can open it later.***
 
 #### Notes
 The village should be saved in a `.aov` file. You are free to save in any format.
 
-***As a village editor, I want to create a new village.***
+***As a village editor, we want to create a new village.***
 
 #### Notes
-* When creating a new village,  I want a 600px x 400px drawing space to be available.
+* When creating a new village,  we want a 600px x 400px drawing space to be available.
 * If there is anything already on the drawing space, it should be cleared.
-* I want to be able to give my village a name.
+* We want to be able to give my village a name.
 * The village editor window should look like below: 
 ![Picture1](https://user-images.githubusercontent.com/1958088/88481975-49d9de80-cf80-11ea-8c36-064f670fd2bd.png)
 
