@@ -6,7 +6,7 @@ A village can have several types of objects like _house_, _tree_ and _water sour
 
 
 ### Constraints of implementation
-As a village editor, we want to place the following items in a village:
+i.As a village editor, we want to place the following items in a village:
 1. House
 2. Tree
 3. Water source
