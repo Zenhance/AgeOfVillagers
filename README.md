@@ -51,3 +51,14 @@ Code Quality               This will be evaluated manually
 1. This is a design patterns assignment. That means code quality is very important. However, implementing functionality comes first.
 1. Implement only what has been asked. Implementing anything outside requirements does not give you any extra credit. 
 
+## Constraints of implementation
+We want a nation named _Inuit Hunters_.
+
+### Details
+1. The house is an igloo and looks line below:
+![image](https://user-images.githubusercontent.com/1958088/87903150-2644fe80-ca7d-11ea-9841-16695cfcb8d5.png)
+1. Relies on natural water sources so it is not possible to place water sources.
+1. Also cannot plant trees.
+1. The terrain should be pure white.
+1. The shapes should resemble as shown above, but do not have to be exactly the same.
+
