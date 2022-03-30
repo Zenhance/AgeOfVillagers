@@ -40,7 +40,7 @@ A village can have several types of objects like _house_, _tree_ and _water sour
 3. the terrain should be a plain green colour.
 4. The shapes should resemble as shown above, but do not have to be exactly the same.
 
-
+## Details
 As a village editor, we want to place the following items in a village:
 1. House
 2. Tree
