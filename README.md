@@ -7,9 +7,9 @@ A village can have several types of objects like _house_, _tree_ and _water sour
 
 ### Constraints of implementation
 1.As a village editor, we want to place the following items in a village:
-1.1. House
-1.2. Tree
-1.3. Water source
+    1.1. House
+    1.2. Tree
+    1.3. Water source
 
 We want the following steps when placing an item:
 1. Select a type of item from a radio button on the side pane
