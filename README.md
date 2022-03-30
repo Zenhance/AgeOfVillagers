@@ -41,4 +41,21 @@ A village can have several types of objects like _house_, _tree_ and _water sour
 4. The shapes should resemble as shown above, but do not have to be exactly the same.
 
 
+As a village editor, we want to place the following items in a village:
+1. House
+2. Tree
+3. Water source
+
+We want the following steps when placing an item:
+1. Select a type of item from a radio button on the side pane
+2. Click on a location on the village
+3. Draw the selected item at that location
+4. Repeatedly click on different locations to place items of the selected type
+
+We want the size of the items to be as below:
+1. House: 16px by 16px
+2. Tree: 16px by 24px
+3. Water source: varies based on the nation
+
+We want the shape of the items to vary based on the nation. Please check individual nation details for the shapes of the items.
 
