@@ -78,7 +78,7 @@ The village should be saved in a `.aov` file. You are free to save in any format
 3. the terrain should be a plain green colour.
 4. The shapes should resemble as shown above, but do not have to be exactly the same.
 
-#Patterns Used 
+# Patterns Used 
 1. Composite
 2. Factory Method
 3. Strategy
