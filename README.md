@@ -73,5 +73,14 @@ We want a nation named _Egyptian Kings_.
 1. The terrain should be a plain yellow colour.
 1. The shapes should resemble as shown above, but do not have to be exactly the same.
 
+We want a nation named _Arab Bedouin_.
+
+### Details
+1. The house and tree look as follows:
+![image](https://user-images.githubusercontent.com/1958088/87860849-99a61d80-c962-11ea-8384-cf16b7d92dce.png)
+1. Bedouin villages do not build their own water source, therefore, the water sources should disappear for Bedouin villages.
+1. The terrain should be a yellowish colour.
+1. The shapes should resemble as shown above, but do not have to be exactly the same.
+
 
 
