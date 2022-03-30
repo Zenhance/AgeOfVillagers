@@ -51,10 +51,9 @@ Code Quality               This will be evaluated manually
 1. This is a design patterns assignment. That means code quality is very important. However, implementing functionality comes first.
 1. Implement only what has been asked. Implementing anything outside requirements does not give you any extra credit. 
 
-## Constraints of implementation
-We want a nation named _Inuit Hunters_.
+### Constraints of implementation
 
-### Details
+## _Inuit Hunters_
 1. The house is an igloo and looks line below:![image](https://user-images.githubusercontent.com/1958088/87903150-2644fe80-ca7d-11ea-9841-16695cfcb8d5.png)
 2. Relies on natural water sources so it is not possible to place water sources.
 3. Also cannot plant trees.
@@ -62,25 +61,22 @@ We want a nation named _Inuit Hunters_.
 5. The shapes should resemble as shown above, but do not have to be exactly the same.
 
 
-We want a nation named _Egyptian Kings_.
-
-### Details
+## _Egyptian Kings_
 1. The house, tree and water source looks as follows:
 ![image](https://user-images.githubusercontent.com/1958088/87902813-622b9400-ca7c-11ea-8c3e-93268dd4c3f7.png)
 
-1. They did not live in the pyramids, but it is a well-known symbol of ancient Egypt!
-1. The water source is a well and it should be 12px by 12px.
-1. The terrain should be a plain yellow colour.
-1. The shapes should resemble as shown above, but do not have to be exactly the same.
+2. They did not live in the pyramids, but it is a well-known symbol of ancient Egypt!
+3. The water source is a well and it should be 12px by 12px.
+4. The terrain should be a plain yellow colour.
+5. The shapes should resemble as shown above, but do not have to be exactly the same.
 
-We want a nation named _Arab Bedouin_.
 
-### Details
+## _Arab Bedouin_
 1. The house and tree look as follows:
 ![image](https://user-images.githubusercontent.com/1958088/87860849-99a61d80-c962-11ea-8384-cf16b7d92dce.png)
-1. Bedouin villages do not build their own water source, therefore, the water sources should disappear for Bedouin villages.
-1. The terrain should be a yellowish colour.
-1. The shapes should resemble as shown above, but do not have to be exactly the same.
+2. Bedouin villages do not build their own water source, therefore, the water sources should disappear for Bedouin villages.
+3. The terrain should be a yellowish colour.
+4. The shapes should resemble as shown above, but do not have to be exactly the same.
 
 
 
