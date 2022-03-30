@@ -26,18 +26,18 @@ We want the shape of the items to vary based on the nation. Please check individ
 
 As a village editor, I want to open a village that was previously saved.
 
-## Notes
+# Notes
 1. The village can be edited after it is opened.
 2. When a village is being opened, I would like to choose a nation for which the village will be drawn.
 
 As a village editor, I want to save the current state of a village so that I can open it later.
 
-## Notes
+# Notes
 The village should be saved in a `.aov` file. You are free to save in any format.
 
 As a village editor, I want to create a new village.
 
-## Notes
+# Notes
 * When creating a new village,  I want a 600px x 400px drawing space to be available.
 * If there is anything already on the drawing space, it should be cleared.
 * I want to be able to give my village a name.
